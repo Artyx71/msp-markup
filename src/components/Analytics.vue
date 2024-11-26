@@ -56,6 +56,31 @@
 							</ul>
 						</div>
 					</div>
+
+					<div class="analytics__list-name queue">
+						<div class="analytics__list-right">
+							<p>Центральный федеральный округ</p>
+							<img src="../assets/img/arrows.png" alt="" />
+						</div>
+						<div class="analitycs__list-left">
+							<ul>
+								<li>
+									<a href="">
+										<p>1 500</p>
+									</a>
+								</li>
+								<li>
+									<a href=""><p>90 678</p> </a>
+								</li>
+								<li>
+									<a href=""><p>64 000</p> </a>
+								</li>
+								<li>
+									<a href=""><p>109 512</p> </a>
+								</li>
+							</ul>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -137,6 +162,13 @@
 	align-items: center;
 	padding-bottom: 14px;
 	border-bottom: 2px solid #e9e9e9;
+}
+
+.queue {
+	padding-bottom: 14px;
+	padding-top: 12px;
+	font-size: 13px;
+	font-weight: 600;
 }
 
 .analytics__list-right {
