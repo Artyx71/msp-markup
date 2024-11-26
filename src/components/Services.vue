@@ -33,7 +33,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/flash.png" alt="" />
 								<p>
 									Получение <br />
 									электронной подписи
@@ -50,7 +50,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/bricks.png" alt="" />
 								<p>Выбор организационно- правовой формы</p>
 							</a>
 						</li>
@@ -68,7 +68,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/calc.png" alt="" />
 								<p>
 									Выбор налогового <br />
 									режима
@@ -89,7 +89,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/blanks.png" alt="" />
 								<p>Открытие расчетного счета</p>
 							</a>
 						</li>
@@ -106,7 +106,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/circle.png" alt="" />
 								<p>Получение кредита</p>
 							</a>
 						</li>
@@ -125,7 +125,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/books.png" alt="" />
 								<p>
 									Расчет <br />
 									рейтинга бизнеса
@@ -147,7 +147,7 @@
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/diagram.png" alt="" />
 								<p>
 									Аналитика <br />
 									для бизнеса
@@ -181,13 +181,13 @@
 							</p>
 						</li>
 						<li class="services__list-item">
-							<a href=""> <img src="../assets/img/arrow.png" alt="" /></a>
+							<a href=""> <img src="../assets/img/books.png" alt="" /></a>
 						</li>
 					</ul>
 					<ul class="services__list-menu">
 						<li class="services__list-item">
 							<a class="services__logo" href="">
-								<img src="../assets/img/case.png" alt="" />
+								<img src="../assets/img/books.png" alt="" />
 								<p>Законодательный дайджест</p>
 							</a>
 						</li>
@@ -206,7 +206,7 @@
 				<ul class="services__list-menu soon">
 					<li class="services__list-item">
 						<a class="services__logo" href="">
-							<img src="../assets/img/case.png" alt="" />
+							<img src="../assets/img/dots.png" alt="" />
 							<p class="soon">Скоро</p>
 						</a>
 					</li>
@@ -231,6 +231,7 @@
 
 <style>
 .info {
+	margin-bottom: 24px;
 }
 
 .services {
@@ -298,7 +299,7 @@
 	padding-top: 64px;
 	text-align: center;
 	padding-bottom: 75px;
-	background-color: #;
+	/* background-color: #; */
 }
 
 .notFound h2 {

@@ -1,4 +1,5 @@
 <script setup>
+import Analytics from './components/Analytics.vue'
 import Header from './components/Header.vue'
 import Platform from './components/Platform.vue'
 import Services from './components/Services.vue'
@@ -9,6 +10,7 @@ import Services from './components/Services.vue'
 		<Header></Header>
 		<Platform></Platform>
 		<Services></Services>
+		<Analytics></Analytics>
 	</div>
 </template>
 
