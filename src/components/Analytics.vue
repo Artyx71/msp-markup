@@ -159,4 +159,10 @@
 .analitycs__list-left li:last-child {
 	margin-right: 0px;
 }
+
+@media (max-width: 968px) {
+	.map img {
+		max-width: 687px;
+	}
+}
 </style>
